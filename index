@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Achievement Index</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #333;
+            color: #fff;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            overflow: hidden; /* Prevents body overflow */
+        }
+       .index-container {
+            text-align: center;
+            width: 90%;
+            max-width: 600px;
+            max-height: 90vh;
+            overflow-y: auto; /* Makes the container scrollable */
+            padding: 20px;
+            box-sizing: border-box;
+            border: 2px solid #444;
+            border-radius: 8px;
+            background-color: #222;
+        }
+        h1 {
+            font-size: 2em;
+            margin-bottom: 20px;
+        }
+        .achievement-link {
+            display: block;
+            margin: 10px 0;
+            font-size: 1.2em;
+            color: #00ff00;
+            text-decoration: none;
+        }
+        .achievement-link:hover {
+            color: #fff;
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="index-container">
+        <h1>Achievement Categories</h1>
+        <a href="main_level.html" class="achievement-link">Main Level Achievements</a>
+        <a href="tower.html" class="achievement-link">Tower Achievements</a>
+        <a href="demon.html" class="achievement-link">Demon Achievements</a>
+        <a href="star.html" class="achievement-link">Star Achievements</a>
+        <a href="moon.html" class="achievement-link">Moon Achievements</a>
+        <a href="secret_coin.html" class="achievement-link">Secret Coin Achievements</a>
+        <a href="user_coin.html" class="achievement-link">User Coin Achievements</a>
+        <a href="diamond.html" class="achievement-link">Diamond Achievements</a>
+        <a href="shard.html" class="achievement-link">Shard Achievements</a>
+        <a href="path.html" class="achievement-link">Path Achievements</a>
+        <a href="map_pack.html" class="achievement-link">Map Pack Achievements</a>
+        <a href="gauntlet.html" class="achievement-link">Gauntlet Achievements</a>
+        <a href="daily_level.html" class="achievement-link">Daily Level Achievements</a>
+        <a href="user_level.html" class="achievement-link">User Level Achievements</a>
+        <a href="list.html" class="achievement-link">List Achievements</a>
+        <a href="level_rating.html" class="achievement-link">Level Rating Achievements</a>
+        <a href="social.html" class="achievement-link">Social Achievements</a>
+        <a href="creating.html" class="achievement-link">Creating Achievements</a>
+        <a href="attempt.html" class="achievement-link">Attempt Achievements</a>
+        <a href="misc.html" class="achievement-link">Misc. Achievements</a>
+        <a href="secret.html" class="achievement-link">Secret Achievements</a>
+        <a href="vault.html" class="achievement-link">The Vault Achievements</a>
+        <a href="vault_of_secrets.html" class="achievement-link">Vault of Secrets Achievements</a>
+        <a href="chamber_of_time.html" class="achievement-link">Chamber of Time Achievements</a>
+        <a href="insane.html" class="achievement-link">Insane Achievements</a>
+        <!-- Add more achievement categories as needed -->
+    </div>
+</body>
+</html>
