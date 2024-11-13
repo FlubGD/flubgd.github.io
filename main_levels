@@ -191,6 +191,82 @@
                 <p class="achievement-name">Clubstep!</p>
                 <p class="achievement-desc">Complete Clubstep in Normal Mode</p></div><p class="completion">100.0%</p></div>
 
+  <div class="achievement"><div class="icon-placeholder"></div><div class="achievement-text">
+                <p class="achievement-name">Ultimate Clubstep</p>
+                <p class="achievement-desc">Collect all 3 coins on Clubstep</p></div><p class="completion">100.0%</p></div>
+
+  <div class="achievement"><div class="icon-placeholder"></div><div class="achievement-text">
+                <p class="achievement-name">Electromaniac</p>
+                <p class="achievement-desc">Complete Electrodynamix in Practice Mode</p></div><p class="completion">100.0%</p></div>
+
+  <div class="achievement"><div class="icon-placeholder"></div><div class="achievement-text">
+                <p class="achievement-name">Electrodynamix!</p>
+                <p class="achievement-desc">Complete Electrodynamix in Normal Mode</p></div><p class="completion">100.0%</p></div>
+
+  <div class="achievement"><div class="icon-placeholder"></div><div class="achievement-text">
+                <p class="achievement-name">Hexagonest</p>
+                <p class="achievement-desc">Complete Hexagon Force in Practice Mode</p></div><p class="completion">100.0%</p></div>
+
+  <div class="achievement"><div class="icon-placeholder"></div><div class="achievement-text">
+                <p class="achievement-name">Hexagon Force!</p>
+                <p class="achievement-desc">Complete Hexagon Force in Normal Mode</p></div><p class="completion">100.0%</p></div>
+
+  <div class="achievement"><div class="icon-placeholder"></div><div class="achievement-text">
+                <p class="achievement-name">Blast Power</p>
+                <p class="achievement-desc">Complete Blast Processing in Practice Mode</p></div><p class="completion">100.0%</p></div>
+
+  <div class="achievement"><div class="icon-placeholder"></div><div class="achievement-text">
+                <p class="achievement-name">Blast Processing!</p>
+                <p class="achievement-desc">Complete Blast Processing in Normal Mode</p></div><p class="completion">100.0%</p></div>
+
+  <div class="achievement"><div class="icon-placeholder"></div><div class="achievement-text">
+                <p class="achievement-name">Second Theory</p>
+                <p class="achievement-desc">Complete Theory of Everything 2 in Practice Mode</p></div><p class="completion">100.0%</p></div>
+
+  <div class="achievement"><div class="icon-placeholder"></div><div class="achievement-text">
+                <p class="achievement-name">Theory of Everything 2!</p>
+                <p class="achievement-desc">Complete Theory of Everything 2 in Normal Mode</p></div><p class="completion">100.0%</p></div>
+
+  <div class="achievement"><div class="icon-placeholder"></div><div class="achievement-text">
+                <p class="achievement-name">Ultimate TOE2</p>
+                <p class="achievement-desc">Collect all 3 coins on Theory of Everything 2</p></div><p class="completion">100.0%</p></div>
+
+  <div class="achievement"><div class="icon-placeholder"></div><div class="achievement-text">
+                <p class="achievement-name">Geometry Warrior</p>
+                <p class="achievement-desc">Complete Geometrical Dominator in Practice Mode</p></div><p class="completion">100.0%</p></div>
+
+  <div class="achievement"><div class="icon-placeholder"></div><div class="achievement-text">
+                <p class="achievement-name">Geometrical Dominator!</p>
+                <p class="achievement-desc">Complete Geometrical Dominator in Normal Mode</p></div><p class="completion">100.0%</p></div>
+
+  <div class="achievement"><div class="icon-placeholder"></div><div class="achievement-text">
+                <p class="achievement-name">Living Open</p>
+                <p class="achievement-desc">Complete Deadlocked in Practice Mode</p></div><p class="completion">100.0%</p></div>
+
+  <div class="achievement"><div class="icon-placeholder"></div><div class="achievement-text">
+                <p class="achievement-name">Deadlocked!</p>
+                <p class="achievement-desc">Complete Deadlocked in Normal Mode</p></div><p class="completion">100.0%</p></div>
+
+  <div class="achievement"><div class="icon-placeholder"></div><div class="achievement-text">
+                <p class="achievement-name">Ultimate Deadlocked</p>
+                <p class="achievement-desc">Collect all 3 coins on Deadlocked</p></div><p class="completion">100.0%</p></div>
+
+  <div class="achievement"><div class="icon-placeholder"></div><div class="achievement-text">
+                <p class="achievement-name">Fingerdash</p>
+                <p class="achievement-desc">Complete Fingerdash in Practice Mode</p></div><p class="completion">100.0%</p></div>
+
+  <div class="achievement"><div class="icon-placeholder"></div><div class="achievement-text">
+                <p class="achievement-name">Fingerdash!</p>
+                <p class="achievement-desc">Complete Fingerdash in Normal Mode</p></div><p class="completion">100.0%</p></div>
+
+  <div class="achievement"><div class="icon-placeholder"></div><div class="achievement-text">
+                <p class="achievement-name">Eat. Sleep. Dash. Repeat.</p>
+                <p class="achievement-desc">Complete Dash in Practice Mode</p></div><p class="completion">100.0%</p></div>
+
+  <div class="achievement"><div class="icon-placeholder"></div><div class="achievement-text">
+                <p class="achievement-name">Dash!</p>
+                <p class="achievement-desc">Complete Dash in Normal Mode</p></div><p class="completion">100.0%</p></div>
+
     </div>
 </body>
 </html>
