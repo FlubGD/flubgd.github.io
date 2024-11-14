@@ -61,7 +61,8 @@
 			  font-size: 40px;  
         font-family:Arial, sans-serif;
         font-weight: 1000;
-        text-shadow: 2px 2px 4px black; }
+        text-shadow: 2px 2px 4px black;
+    	color: light_red;}
 
     h2 {
         padding: 10px;
@@ -70,4 +71,4 @@
         font-family:Arial, sans-serif;
         font-weight: 1000;
         text-shadow: 2px 2px 4px black;
-        color: 19ff06; }
+        color: white; }
