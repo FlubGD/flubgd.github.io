@@ -1,0 +1,395 @@
+---
+Title: User Coin Achievements
+permalink: /user_coin/
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Achievement Board</title>
+	<link rel="stylesheet" type="text/css" href="/style.css">
+    <style>
+	.achievement-name {
+		color: d6d6d6;
+	}
+    </style>
+</head>
+<body>
+	<div class="index-container">
+	<h1 style="color:red">Demon Achievements</h1>
+	<h2>0 out of 0 complete</h2>
+	</div>
+    <div class="achievement-board">
+        <div class="achievement">
+			<div class="icon-placeholder" style="background-image: url(/images/UserCoinVerified.png);"></div>
+            <div class="achievement-text">
+                <p class="achievement-name">What are those!?</p>
+                <p class="achievement-desc">Collect 1 User Coin</p>
+            </div>
+            <p class="completion">100.0%</p>
+        </div>
+        
+        <div class="achievement">
+            <div class="icon-placeholder" style="background-image: url(/images/UserCoinVerified.png);"></div>
+            <div class="achievement-text">
+                <p class="achievement-name">The journey begins…</p>
+                <p class="achievement-desc">Collect 10 User Coins</p>
+            </div>
+            <p class="completion">100.0%</p>
+        </div>
+
+        <div class="achievement">
+            <div class="icon-placeholder" style="background-image: url(/images/UserCoinVerified.png);"></div>
+            <div class="achievement-text">
+                <p class="achievement-name">I can’t stop!</p>
+                <p class="achievement-desc">Collect 20 User Coins</p>
+            </div>
+            <p class="completion">100.0%</p>
+        </div>
+
+          <div class="achievement">
+            <div class="icon-placeholder" style="background-image: url(/images/UserCoinVerified.png);"></div>
+            <div class="achievement-text">
+                <p class="achievement-name">Mom, get the camera!!!</p>
+                <p class="achievement-desc">Collect 30 User Coins</p>
+            </div>
+            <p class="completion">100.0%</p>
+        </div>
+
+  <div class="achievement">
+            <div class="icon-placeholder" style="background-image: url(/images/UserCoinVerified.png);"></div>
+            <div class="achievement-text">
+                <p class="achievement-name">I feel rich!</p>
+                <p class="achievement-desc">Collect 40 User Coins</p>
+            </div>
+            <p class="completion">100.0%</p>
+        </div>
+
+  <div class="achievement">
+            <div class="icon-placeholder" style="background-image: url(/images/UserCoinVerified.png);"></div>
+            <div class="achievement-text">
+                <p class="achievement-name">What to buy…</p>
+                <p class="achievement-desc">Collect 50 User Coins</p>
+            </div>
+            <p class="completion">100.0%</p>
+        </div>
+
+  <div class="achievement">
+            <div class="icon-placeholder" style="background-image: url(/images/UserCoinVerified.png);"></div>
+            <div class="achievement-text">
+                <p class="achievement-name">i’ll get that for you</p>
+                <p class="achievement-desc">Collect 60 User Coins</p>
+            </div>
+            <p class="completion">100.0%</p>
+        </div>
+
+  <div class="achievement">
+            <div class="icon-placeholder" style="background-image: url(/images/UserCoinVerified.png);"></div>
+            <div class="achievement-text">
+                <p class="achievement-name">Piece of cake</p>
+                <p class="achievement-desc">Collect 70 User Coins</p>
+            </div>
+            <p class="completion">100.0%</p>
+        </div>
+
+  <div class="achievement">
+            <div class="icon-placeholder" style="background-image: url(/images/UserCoinVerified.png);"></div>
+            <div class="achievement-text">
+                <p class="achievement-name">We’re gonna need a bigger boat</p>
+                <p class="achievement-desc">Collect 80 User Coins</p>
+            </div>
+            <p class="completion">100.0%</p>
+        </div>
+
+  <div class="achievement">
+            <div class="icon-placeholder" style="background-image: url(/images/UserCoinVerified.png);"></div>
+            <div class="achievement-text">
+                <p class="achievement-name">Got coins?</p>
+                <p class="achievement-desc">Collect 90 User Coins</p>
+            </div>
+            <p class="completion">100.0%</p>
+        </div>
+
+  <div class="achievement">
+            <div class="icon-placeholder" style="background-image: url(/images/UserCoinVerified.png);"></div>
+            <div class="achievement-text">
+                <p class="achievement-name">So… greed much?</p>
+                <p class="achievement-desc">Collect 100 User Coins</p>
+            </div>
+            <p class="completion">100.0%</p>
+        </div>
+
+  <div class="achievement">
+            <div class="icon-placeholder" style="background-image: url(/images/UserCoinVerified.png);"></div>
+            <div class="achievement-text">
+                <p class="achievement-name">MAX COINS!</p>
+                <p class="achievement-desc">Collect 110 User Coins</p>
+            </div>
+            <p class="completion">100.0%</p>
+        </div>
+
+  <div class="achievement">
+            <div class="icon-placeholder" style="background-image: url(/images/UserCoinVerified.png);"></div>
+            <div class="achievement-text">
+                <p class="achievement-name">Just kidding…</p>
+                <p class="achievement-desc">Collect 120 User Coins</p>
+            </div>
+            <p class="completion">100.0%</p>
+        </div>
+
+  <div class="achievement">
+            <div class="icon-placeholder" style="background-image: url(/images/UserCoinVerified.png);"></div>
+            <div class="achievement-text">
+                <p class="achievement-name">I think there’s one left</p>
+                <p class="achievement-desc">Collect 130 User Coins</p>
+            </div>
+            <p class="completion">100.0%</p>
+        </div>
+
+  <div class="achievement">
+            <div class="icon-placeholder" style="background-image: url(/images/UserCoinVerified.png);"></div>
+            <div class="achievement-text">
+                <p class="achievement-name">Where did you get those?</p>
+                <p class="achievement-desc">Collect 140 User Coins</p>>
+            </div>
+            <p class="completion">100.0%</p>
+        </div>
+
+  <div class="achievement">
+            <div class="icon-placeholder" style="background-image: url(/images/UserCoinVerified.png);"></div>
+            <div class="achievement-text">
+                <p class="achievement-name">So many shinies…</p>
+                <p class="achievement-desc">Collect 150 User Coins</p>
+            </div>
+            <p class="completion">100.0%</p>
+        </div>
+
+  <div class="achievement">
+            <div class="icon-placeholder" style="background-image: url(/images/UserCoinVerified.png);"></div>
+            <div class="achievement-text">
+                <p class="achievement-name">Power level increasing</p>
+                <p class="achievement-desc">Collect 160 User Coins</p>
+            </div>
+            <p class="completion">100.0%</p>
+        </div>
+
+  <div class="achievement">
+            <div class="icon-placeholder" style="background-image: url(/images/UserCoinVerified.png);"></div>
+            <div class="achievement-text">
+                <p class="achievement-name">Ultra mega coin catcher</p>
+                <p class="achievement-desc">Collect 170 User Coins</p>
+            </div>
+            <p class="completion">100.0%</p>
+        </div>
+
+  <div class="achievement">
+            <div class="icon-placeholder" style="background-image: url(/images/UserCoinVerified.png);"></div>
+            <div class="achievement-text">
+                <p class="achievement-name">Something that rhymes with coin</p>
+                <p class="achievement-desc">Collect 180 User Coins</p>
+            </div>
+            <p class="completion">100.0%</p>
+        </div>
+
+  <div class="achievement">
+            <div class="icon-placeholder" style="background-image: url(/images/UserCoinVerified.png);"></div>
+            <div class="achievement-text">
+                <p class="achievement-name">Will you ever be satisfied?</p>
+                <p class="achievement-desc">Collect 190 User Coins</p>
+            </div>
+            <p class="completion">100.0%</p>
+        </div>
+
+  <div class="achievement">
+            <div class="icon-placeholder" style="background-image: url(/images/UserCoinVerified.png);"></div>
+            <div class="achievement-text">
+                <p class="achievement-name">Level up! Ultra Greedy…</p>
+                <p class="achievement-desc">Collect 200 User Coins</p>
+            </div>
+            <p class="completion">100.0%</p>
+        </div>
+
+  <div class="achievement">
+            <div class="icon-placeholder" style="background-image: url(/images/UserCoinVerified.png);"></div>
+            <div class="achievement-text">
+                <p class="achievement-name">Something funny about coins</p>
+                <p class="achievement-desc">Collect 225 User Coins</p>
+            </div>
+            <p class="completion">100.0%</p>
+        </div>
+
+  <div class="achievement">
+            <div class="icon-placeholder" style="background-image: url(/images/UserCoinVerified.png);"></div>
+            <div class="achievement-text">
+                <p class="achievement-name">Who makes these?</p>
+                <p class="achievement-desc">Collect 250 User Coins</p>
+            </div>
+            <p class="completion">100.0%</p>
+        </div>
+
+  <div class="achievement">
+            <div class="icon-placeholder" style="background-image: url(/images/UserCoinVerified.png);"></div>
+            <div class="achievement-text">
+                <p class="achievement-name">More coins, give reward/p>
+                <p class="achievement-desc">Collect 300 User Coins</p>
+            </div>
+            <p class="completion">100.0%</p>
+        </div>
+
+  <div class="achievement">
+            <div class="icon-placeholder" style="background-image: url(/images/UserCoinVerified.png);"></div>
+            <div class="achievement-text">
+                <p class="achievement-name">Much coin, very wow</p>
+                <p class="achievement-desc">Collect 350 User Coins</p>
+            </div>
+            <p class="completion">100.0%</p>
+        </div>
+
+  <div class="achievement">
+            <div class="icon-placeholder" style="background-image: url(/images/UserCoinVerified.png);"></div>
+            <div class="achievement-text">
+                <p class="achievement-name">Who has this many coins?</p>
+                <p class="achievement-desc">Collect 425 User Coins</p>
+            </div>
+            <p class="completion">100.0%</p>
+        </div>
+
+  <div class="achievement">
+            <div class="icon-placeholder" style="background-image: url(/images/UserCoinVerified.png);"></div>
+            <div class="achievement-text">
+                <p class="achievement-name">Enough is enough</p>
+                <p class="achievement-desc">Collect 500 User Coins</p>
+            </div>
+            <p class="completion">100.0%</p>
+        </div>
+
+
+  <div class="achievement">
+            <div class="icon-placeholder" style="background-image: url(/images/UserCoinVerified.png);"></div>
+            <div class="achievement-text">
+                <p class="achievement-name">Stop collecting coins</p>
+                <p class="achievement-desc">Collect 600 User Coins</p>
+            </div>
+            <p class="completion">100.0%</p>
+        </div>
+
+
+  <div class="achievement">
+            <div class="icon-placeholder" style="background-image: url(/images/UserCoinVerified.png);"></div>
+            <div class="achievement-text">
+                <p class="achievement-name">Y u take all coin?</p>
+                <p class="achievement-desc">Collect 700 User Coins</p>
+            </div>
+            <p class="completion">100.0%</p>
+        </div>
+
+
+  <div class="achievement">
+            <div class="icon-placeholder" style="background-image: url(/images/UserCoinVerified.png);"></div>
+            <div class="achievement-text">
+                <p class="achievement-name">Can I have some?</p>
+                <p class="achievement-desc">Collect 800 User Coins</p>
+            </div>
+            <p class="completion">100.0%</p>
+        </div>
+
+  <div class="achievement">
+            <div class="icon-placeholder" style="background-image: url(/images/UserCoinVerified.png);"></div>
+            <div class="achievement-text">
+                <p class="achievement-name">Congratulations, you have them all!</p>
+                <p class="achievement-desc">Collect 900 User Coins</p>
+            </div>
+            <p class="completion">100.0%</p>
+        </div>
+
+  <div class="achievement">
+            <div class="icon-placeholder" style="background-image: url(/images/UserCoinVerified.png);"></div>
+            <div class="achievement-text">
+                <p class="achievement-name">You have them all again! :O</p>
+                <p class="achievement-desc">Collect 1000 User Coins</p>
+            </div>
+            <p class="completion">100.0%</p>
+        </div>
+
+  <div class="achievement">
+            <div class="icon-placeholder" style="background-image: url(/images/UserCoinVerified.png);"></div>
+            <div class="achievement-text">
+                <p class="achievement-name">Just kidding again!</p>
+                <p class="achievement-desc">Collect 1200 User Coins</p>
+            </div>
+            <p class="completion">100.0%</p>
+        </div>
+
+  <div class="achievement">
+            <div class="icon-placeholder" style="background-image: url(/images/UserCoinVerified.png);"></div>
+            <div class="achievement-text">
+                <p class="achievement-name">The other side of the coin</p>
+                <p class="achievement-desc">Collect 1400 User Coins</p>
+            </div>
+            <p class="completion">100.0%</p>
+        </div>
+
+  <div class="achievement">
+            <div class="icon-placeholder" style="background-image: url(/images/UserCoinVerified.png);"></div>
+            <div class="achievement-text">
+                <p class="achievement-name">Just a coin toss away</p>
+                <p class="achievement-desc">Collect 1600 User Coins</p>
+            </div>
+            <p class="completion">100.0%</p>
+        </div>
+
+  <div class="achievement">
+            <div class="icon-placeholder" style="background-image: url(/images/UserCoinVerified.png);"></div>
+            <div class="achievement-text">
+                <p class="achievement-name">Almighty dollar</p>
+                <p class="achievement-desc">Collect 1800 User Coins</p>
+            </div>
+            <p class="completion">100.0%</p>
+        </div>
+
+  <div class="achievement">
+            <div class="icon-placeholder" style="background-image: url(/images/UserCoinVerified.png);"></div>
+            <div class="achievement-text">
+                <p class="achievement-name">Have fun, kid!</p>
+                <p class="achievement-desc">Collect 2000 User Coins</p>
+            </div>
+            <p class="completion">100.0%</p>
+        </div>
+
+  <div class="achievement">
+            <div class="icon-placeholder" style="background-image: url(/images/UserCoinVerified.png);"></div>
+            <div class="achievement-text">
+                <p class="achievement-name">Nickel and dime</p>
+                <p class="achievement-desc">Collect 2300 User Coins</p>
+            </div>
+            <p class="completion">100.0%</p>
+        </div>
+
+  <div class="achievement">
+            <div class="icon-placeholder" style="background-image: url(/images/UserCoinVerified.png);"></div>
+            <div class="achievement-text">
+                <p class="achievement-name">Heads or tails</p>
+                <p class="achievement-desc">Collect 2600 User Coins</p>
+            </div>
+            <p class="completion">100.0%</p>
+        </div>
+
+  <div class="achievement">
+            <div class="icon-placeholder" style="background-image: url(/images/UserCoinVerified.png);"></div>
+            <div class="achievement-text">
+                <p class="achievement-name">Swag</p>
+                <p class="achievement-desc">Collect 3000 User Coins</p>
+            </div>
+            <p class="completion">100.0%</p>
+        </div>
+
+    </div>
+</body>
+</html>
+
+
+
+
+
